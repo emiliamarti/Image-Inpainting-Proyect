@@ -1,7 +1,8 @@
 # Image-Inpainting-Proyect
 
-This repository contains the code and data used in our paper
-"Image Inpainting using Different Inpainting Methods".
+This repository contains the data used in our paper
+"Image Inpainting Across Domains: A Comparison of GAN and Diffusion-Based
+Methods".
 
 We compare:
 - LaMa (GAN-based)
@@ -11,3 +12,5 @@ We compare:
 All experiments use:
 - Image resolution = 256×256
 - Identical irregular masks across methods
+
+Authors: Emilija Ivkovic and Emilia Marti.
